@@ -11,7 +11,7 @@ A developer from Brazil passionate for:
 * music 🎵
 * games 🎮
 
-Nowadays I work as a backend developer using PLSQL but I'm pretty much interested in mobile development since I first studied Flutter in university. I have an ongoing app project called myTrainer that you can find inside my repositories.
+Nowadays I work as a backend analyst using PLSQL but I'm pretty much interested in mobile development since I first studied Flutter in university. I have an ongoing app project called myTrainer that you can find inside my repositories.
 
 <br>
 
