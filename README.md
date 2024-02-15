@@ -26,6 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 * SOLID
 * Domain Driven Design
 * REST
+* Ports and Adapters (Hexagonal Architecture)
 
 ## Actually learning 🎓
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=40 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height=40 width=40 />
