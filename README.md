@@ -11,7 +11,7 @@ A developer from Brazil passionate for:
 * music 🎵
 * cars 🔧​
 
-Nowadays I work as a database analyst using PLSQL but I'm pretty much interested in frontend development. 
+Nowadays I work as a database analyst using PLSQL but I'm pretty much interested in fullstack development. 
 
 <br>
 
@@ -27,6 +27,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 * Domain Driven Design
 * REST
 * Ports and Adapters (Hexagonal Architecture)
+* Clean Architecture
+* Monolith
 
 ## Actually learning 🎓
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=40 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height=40 width=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=40 width=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=40 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height=40 width=40 />
