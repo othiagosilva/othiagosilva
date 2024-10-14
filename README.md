@@ -11,7 +11,7 @@ A developer from Brazil passionate for:
 * music 🎵
 * cars 🔧​
 
-Nowadays I work as a database analyst using PLSQL but I'm pretty much interested in fullstack development. 
+Nowadays I work as a software developer at TOTVS.
 
 <br>
 
